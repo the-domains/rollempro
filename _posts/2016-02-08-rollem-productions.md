@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'This is our first design of the logo.  Special thanks to Penny for making this possible.  '
-datePublished: '2016-02-08T22:52:35.180Z'
-dateModified: '2016-02-08T22:51:45.572Z'
+datePublished: '2016-02-08T22:54:49.903Z'
+dateModified: '2016-02-08T22:54:46.246Z'
 title: "Roll'em Productions"
 author: []
 authors: []
