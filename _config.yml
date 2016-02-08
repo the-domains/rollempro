@@ -1,0 +1,14 @@
+layout_spectrum: 0.01433692
+color:
+  saturation: 1
+  lightness: 0.6792115
+  brandStrength: 0.5179211
+  brandColors:
+    - '#94A9BA'
+    - '#010102'
+    - '#FFFEFF'
+    - '#4B555E'
+    - '#303031'
+  rhythmicContrast: 0.9247312
+typography_spectrum: 0.09318996
+name: RollemPro
